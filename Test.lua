@@ -1,4 +1,4 @@
-list =  ["zSilverSkyz",
+list = ["zSilverSkyz",
 "UnfortunateWasTaken",
 "ABD0050",
 "EraserSoul",

@@ -237,7 +237,7 @@ list = ["zSilverSkyz",
 "Austin_t",
 "DemonicKitsune",
 "Mintpopser_Novich",
-"GodYPlayzRB"
+"GodYPlayzRB",
 "pballs",
 "Vivacapsunionps3",
 "JudicialFunds",

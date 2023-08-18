@@ -1,5 +1,4 @@
 local list = {
-  --Moderators & Developers
   "Homboor", 
   "Rynhex", 
   "yuji071", 

@@ -10,7 +10,7 @@ local list = {
   "luckyluke1281mia",
   "AntePavelicPoglavnik",
   "happysully07",
-  "perciless"
+  "perciless",
   "Steven_XP23",
   "Chaosys",
   "hack_tested"
